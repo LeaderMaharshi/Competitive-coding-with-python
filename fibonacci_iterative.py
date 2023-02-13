@@ -6,3 +6,5 @@ def fibonacci_iterative(n):
         sum = a + b
         b = a
         a = sum
+
+fibonacci_iterative(10)
